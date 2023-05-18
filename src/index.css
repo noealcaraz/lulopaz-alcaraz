@@ -1,0 +1,49 @@
+:root, #root {
+  background-color: #fff1ff;
+}
+
+.navbar-main .navbar-brand {
+  padding: 10px;
+  background: #133106;
+  color: white;
+  font-size: 24px;
+}
+.navbar-main .container {
+  margin: 0;
+  padding: 0;
+}
+.navbar-main .navbar-brand {
+  color: white;
+}
+
+.nav .nav-item {
+  color: white;
+}
+
+.logo {
+  margin-right: 10px;
+}
+.logo img {
+  max-width: 35px;
+}
+.logo .number {
+  color: black;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  margin: -5px 1px 0px 1px;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-list {
+  color: #291107;
+  font-size: 18px;
+  margin: 10px 0px 0px 12px;
+}/*# sourceMappingURL=index.css.map */
